@@ -14,3 +14,4 @@ def factorial(x):
 def gugudan(x):
     for i in range(9):
         print((i+1) *x)
+        
